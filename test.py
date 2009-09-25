@@ -1,2 +1,2 @@
 def test():
-    return 'github-test'
+    return 'github-test version A'
